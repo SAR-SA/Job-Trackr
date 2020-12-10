@@ -1,4 +1,9 @@
 # Job Trackr
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![](assets/DashBoard.JPG)
+![](assets/SignIn.JPG)
+
 Search and apply for remote jobs and track each step of your process! Stay motivated using our benchmark system.
 
 
@@ -96,6 +101,7 @@ As recent coding bootcamp graduates, we understand this dilemma all too well and
 If you would like to contribute to this project, please clone the repository, make your changes and submit a pull request for review by the developer team.
 
 # References
+* Deployed Link: (https://whispering-woodland-82554.herokuapp.com/)
 * [Remotive API](https://remotive.io/api-documentation)
 * [Passport.js](http://www.passportjs.org/)
 * The TA Team Bobby Hoffman and Mike Fernley for all their assistance
