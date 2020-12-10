@@ -1,8 +1,8 @@
 # Job Trackr
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![](assets/DashBoard.JPG)
 ![](assets/SignIn.JPG)
+![](assets/DashBoard.JPG)
 
 Search and apply for remote jobs and track each step of your process! Stay motivated using our benchmark system.
 
